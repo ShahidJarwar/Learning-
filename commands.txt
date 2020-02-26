@@ -1,0 +1,27 @@
+git config --global user.email "shahid.jarwar@yahoo.com"
+git config --global user.name "Shahid Jarwar"
+
+
+Learn git simple commands
+
+
+git init
+
+git add filename || -A
+
+git status
+
+
+git commit -m "message"
+
+git remote add origin repoName
+
+git push orgin master
+
+
+git clone repoName
+
+
+git pull origin master 
+
+
